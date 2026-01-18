@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "minghinshi's Resources",
   description: "Blog by minghinshi",
+  base: "/personal-website/",
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
