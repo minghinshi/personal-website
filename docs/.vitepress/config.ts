@@ -12,7 +12,10 @@ export default defineConfig({
     sidebar: [
       {
         text: "Posts",
-        items: [{ text: "Hello, World!", link: "/posts/hello-world" }],
+        items: [
+          { text: "Hello, World!", link: "/posts/hello-world" },
+          { text: "Caveats of AI", link: "/posts/ai-caveats" },
+        ],
       },
     ],
     footer: {
