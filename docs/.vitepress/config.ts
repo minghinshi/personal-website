@@ -15,6 +15,7 @@ export default defineConfig({
         items: [
           { text: "Hello, World!", link: "/posts/hello-world" },
           { text: "Caveats of AI", link: "/posts/ai-caveats" },
+          { text: "Celeste", link: "/posts/celeste" },
         ],
       },
     ],
