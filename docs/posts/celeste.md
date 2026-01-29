@@ -50,8 +50,22 @@ Thanks to the popularity of Spring Collab, its difficulty scale became Celeste's
 ::: details Where did you get this mapping from?
 There's no official mapping. These are my opinions.
 
-In Strawberry Jam, high advanced levels and mid expert levels seem to span a wider range of difficulties than other difficulty levels. A technique called "ultras" start to appear in high expert levels in Spring Collab but mid expert levels in Strawberry Jam. Also, some players consider Temporal Tower (high grandmaster level in Spring Collab) to be low grandmaster today, and Heart of the Storm to be mid grandmaster today. These are the intuitions behind my opinion.
+In Strawberry Jam, high advanced levels and mid expert levels seem to span a wider range of difficulties than other difficulty levels. A technique called "ultras" start to appear in high expert levels in Spring Collab but mid expert levels in Strawberry Jam. Also, some players consider Temporal Tower (high grandmaster level in Spring Collab) to be low grandmaster today, and Heart of the Storm to be mid grandmaster today.
 :::
+
+If you found two grandmaster maps, one released before 2023 and one after it, the latter one could be a fair bit harder.
+
+### Hard list
+
+Grandmaster levels are difficult. Despite learning Celeste for 1,200 hours, I need 200 to 1,000 attempts to beat a grandmaster room. However, it is human nature to push limits.
+
+Hundreds of levels harder than grandmaster have been created and cleared. They are documented in a Google Sheets called the ["Celeste's Hardest Maps Clear List"](https://docs.google.com/spreadsheets/d/1A88F3X2lOQJry-Da2NpnAr-w5WDrkjDtg7Wt0kLCiz8/edit?usp=sharing) ("hard list" / "hardlist" / "hist" for short). In its difficulty scale, 1 star represents 1 difficulty level higher than high grandmaster, 2 stars represent 2 difficulty levels higher, and so on. The current highest is 8 stars, held by a map called ["Reach for the Stars"](https://youtu.be/k6BYANm132Q), featuring a three-minute long final room filled with very precise timings.
+
+::: tip
+The community seems to be migrating the sheet to a [website](https://www.hardclears.com/) lately. Check it out!
+:::
+
+Remember that I said [cracked grandmaster levels are controversial](#spring-collab)? There are 4 cracked grandmaster levels in Strawberry Jam. Two of them, [Pinball Purgatory](https://youtu.be/FYPvoUeyDW0) and [the Solar Express](https://youtu.be/cYtEM4Vp32I), are 1-star. The other two, [Nelumbo](https://youtu.be/pXdHCB97E30) and [Ivory](https://youtu.be/oR7-yOeMGE8), are not on the hard list. Some people even suggest that Ivory is only mid-grandmaster.
 
 <style>
 html.dark .difficulty-beg {
