@@ -19,6 +19,6 @@
     "vitepress": "^2.0.0-alpha.15"
   },
   "lint-staged": {
-    "*.{js,css,md}": "prettier --write"
+    "*": "prettier --write --ignore-unknown"
   }
 }
